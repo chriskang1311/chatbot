@@ -4,13 +4,13 @@ It is built with React (For reusable components and what was used in my previous
 
 ## Features
 
-- ** OpenAI-Powered Conversations**
+- **OpenAI-Powered Conversations**
 - **File Processing** - Upload and analyze PDFs, Word documents, and images
-- ** Real-Time Streaming** - Word-by-word response display with typing indicators
-- ** Voice Recognition** - Speech-to-text input support
-- ** Dark Mode** - Dark/light theme toggle
-- ** Responsive Design** - Works on desktop and mobile
-- ** Chat History** - Persistent conversation storage
+- **Real-Time Streaming** - Word-by-word response display with typing indicators
+- **Voice Recognition** - Speech-to-text input support
+- **Dark Mode** - Dark/light theme toggle
+- **Responsive Design** - Works on desktop and mobile
+- **Chat History** - Persistent conversation storage
 - **Secure** - Environment variable protection for API keys
 
 
