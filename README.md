@@ -2,7 +2,7 @@
 
 This is my first attempt at creating an end-to-end chatbot powered by OpenAI gpt-4o. 
 
-It is built with React (For reusable components and what was used in my previous job) and Flask (Because I am learning Python). This was done with the help of Anthropic's Cursor IDE.
+It is built with React (For reusable components and what was used in my previous job) and Flask (Because I am learning Python). This was done with the help of the Cursor IDE.
 
 ## Features
 
